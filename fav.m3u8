@@ -26,35 +26,35 @@ http://10.0.0.220/got/live1.m3u8
 #EXTINF:-1,本地-银魂
 http://10.0.0.220/yinhun/live1.m3u8
 
-#EXTINF:-1,CCTV-1综合高清
+#EXTINF:-1 tvg-id="CCTV-CCTV1",CCTV-1综合高清
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1,CCTV-2财经
+#EXTINF:-1 tvg-id="CCTV-CCTV2",CCTV-2财经
 http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1,CCTV-3综艺高清
+#EXTINF:-1 tvg-id="CCTV-CCTV3",CCTV-3综艺高清
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1,CCTV-4中文国际
+#EXTINF:-1 tvg-id="CCTV-CCTV4",CCTV-4中文国际
 http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-#EXTINF:-1,CCTV-5+体育赛事高清
+#EXTINF:-1 tvg-id="CCTV-CCTV5",CCTV-5+体育赛事高清
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1,CCTV-6电影高清
+#EXTINF:-1 tvg-id="CCTV-CCTV6",CCTV-6电影高清
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1,CCTV-7军事农业
+#EXTINF:-1 tvg-id="CCTV-CCTV7",CCTV-7军事农业
 http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-#EXTINF:-1,CCTV-8电视剧高清
+#EXTINF:-1 tvg-id="CCTV-CCTV8",CCTV-8电视剧高清
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1,CCTV-9纪录
+#EXTINF:-1 tvg-id="CCTV-CCTV9",CCTV-9纪录
 http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-#EXTINF:-1,CCTV10科教
+#EXTINF:-1 tvg-id="CCTV-CCTV10",CCTV10科教
 http://hls-ott-zhibo.wasu.tv/live/128/index.m3u8
-#EXTINF:-1,CCTV-11戏曲
+#EXTINF:-1 tvg-id="CCTV-CCTV11",CCTV-11戏曲
 http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1,CCTV-12社会与法
+#EXTINF:-1 tvg-id="CCTV-CCTV12",CCTV-12社会与法
 http://ivi.bupt.edu.cn/hls/cctv12.m3u8
-#EXTINF:-1,CCTV-13新闻
+#EXTINF:-1 tvg-id="CCTV-CCTV13",CCTV-13新闻
 http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1,CCTV-14少儿
+#EXTINF:-1 tvg-id="CCTV-CCTV15",CCTV-14少儿
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1,CCTV-15音乐
+#EXTINF:-1 tvg-id="CCTV-CCTV16",CCTV-15音乐
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 #EXTINF:-1,CCTV-NEWS
 http://ivi.bupt.edu.cn/hls/cctv16.m3u8
@@ -70,111 +70,111 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 http://10.0.0.228:2015/chctv/live.m3u8
 #EXTINF:-1,CHC动作电影
 http://10.0.0.228:2015/chcatv/live.m3u8
-#EXTINF:-1,北京卫视高清
+#EXTINF:-1 tvg-id="BTV-BTV1",北京卫视高清
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1,北京影视高清
+#EXTINF:-1 tvg-id="BTV-BTV4",北京影视高清
 http://10.0.0.228:2015/btv4hd/live.m3u8
-#EXTINF:-1,北京文艺高清
+#EXTINF:-1 tvg-id="BTV-BTV2",北京文艺高清
 http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1,北京纪实高清
+#EXTINF:-1 tvg-id="BTV-BTV12",北京纪实高清
 http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1,北京科教
+#EXTINF:-1 tvg-id="BTV-BTV3",北京科教
 http://ivi.bupt.edu.cn/hls/btv3.m3u8
-#EXTINF:-1,北京财经
+#EXTINF:-1 tvg-id="BTV-BTV5",北京财经
 http://ivi.bupt.edu.cn/hls/btv5.m3u8
-#EXTINF:-1,北京生活
+#EXTINF:-1 tvg-id="BTV-BTV7",北京生活
 http://ivi.bupt.edu.cn/hls/btv7.m3u8
-#EXTINF:-1,北京青年
+#EXTINF:-1 tvg-id="BTV-BTV8",北京青年
 http://ivi.bupt.edu.cn/hls/btv8.m3u8
-#EXTINF:-1,北京新闻
+#EXTINF:-1 tvg-id="BTV-BTV9",北京新闻
 http://ivi.bupt.edu.cn/hls/btv9.m3u8
-#EXTINF:-1,北京卡酷少儿
+#EXTINF:-1 tvg-id="BTV-BTV10",北京卡酷少儿
 http://ivi.bupt.edu.cn/hls/btv10.m3u8
-#EXTINF:-1,湖南卫视高清
+#EXTINF:-1 tvg-id="HUNANTV-HUNANTV1",湖南卫视高清
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1,浙江卫视高清
+#EXTINF:-1 tvg-id="ZJTV-ZJTV1",浙江卫视高清
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1,江苏卫视高清
+#EXTINF:-1 tvg-id="JSTV-JSTV1",江苏卫视高清
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1,东方卫视高清
+#EXTINF:-1 tvg-id="SHHAI-DONGFANG1",东方卫视高清
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1,安徽卫视高清
+#EXTINF:-1 tvg-id="AHTV-AHTV1",安徽卫视高清
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1,黑龙江卫视高清
+#EXTINF:-1 tvg-id="HLJTV-HLJTV1",黑龙江卫视高清
 http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1,辽宁卫视高清
+#EXTINF:-1 tvg-id="LNTV-LNTV1",辽宁卫视高清
 http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1,深圳卫视高清
+#EXTINF:-1 tvg-id="SZTV-SZTV1",深圳卫视高清
 http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:-1,广东卫视高清
+#EXTINF:-1 tvg-id="GDTV-GDTV1",广东卫视高清
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1,天津卫视高清
+#EXTINF:-1 tvg-id="TJTV-TJTV1",天津卫视高清
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1,湖北卫视高清
+#EXTINF:-1 tvg-id="HUBEI-HUBEI1",湖北卫视高清
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1,山东卫视高清
+#EXTINF:-1 tvg-id="SDTV-SDTV1",山东卫视高清
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1,重庆卫视高清
+#EXTINF:-1 tvg-id="CCQTV-CCQTV1",重庆卫视高清
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1,河南卫视
+#EXTINF:-1 tvg-id="HNTV-HNTV1",河南卫视
 http://ivi.bupt.edu.cn/hls/hntv.m3u8
-#EXTINF:-1,陕西卫视
+#EXTINF:-1 tvg-id="HNTV-HNTV1",陕西卫视
 http://ivi.bupt.edu.cn/hls/sxtv.m3u8
-#EXTINF:-1,吉林卫视
+#EXTINF:-1 tvg-id="JILIN-JILIN1",吉林卫视
 http://ivi.bupt.edu.cn/hls/jltv.m3u8
-#EXTINF:-1,广西卫视
+#EXTINF:-1 tvg-id="GUANXI-GUANXI1",广西卫视
 http://ivi.bupt.edu.cn/hls/gxtv.m3u8
-#EXTINF:-1,河北卫视
+#EXTINF:-1 tvg-id="HEBEI-HEBEI1",河北卫视
 http://ivi.bupt.edu.cn/hls/hebtv.m3u8
-#EXTINF:-1,西藏卫视
+#EXTINF:-1 tvg-id="XIZANGTV-XIZANGTV2",西藏卫视
 http://ivi.bupt.edu.cn/hls/xztv.m3u8
-#EXTINF:-1,内蒙古卫视
+#EXTINF:-1 tvg-id="NMGTV-NMGTV1",内蒙古卫视
 http://ivi.bupt.edu.cn/hls/nmtv.m3u8
-#EXTINF:-1,青海卫视
+#EXTINF:-1 tvg-id="QHTV-QHTV1",青海卫视
 http://ivi.bupt.edu.cn/hls/qhtv.m3u8
-#EXTINF:-1,四川卫视
+#EXTINF:-1 tvg-id="SCTV-SCTV1",四川卫视
 http://ivi.bupt.edu.cn/hls/sctv.m3u8
-#EXTINF:-1,山西卫视
+#EXTINF:-1 tvg-id="SXTV-SXTV1",山西卫视
 http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
-#EXTINF:-1,辽宁卫视
+#EXTINF:-1 tvg-id="LNTV-LNTV1",辽宁卫视
 http://ivi.bupt.edu.cn/hls/lntv.m3u8
-#EXTINF:-1,厦门卫视
+#EXTINF:-1 tvg-id="XMTV-XMTV5",厦门卫视
 http://ivi.bupt.edu.cn/hls/xmtv.m3u8
-#EXTINF:-1,新疆卫视
+#EXTINF:-1 tvg-id="XJTV-XJTV1",新疆卫视
 http://ivi.bupt.edu.cn/hls/xjtv.m3u8
-#EXTINF:-1,云南卫视
+#EXTINF:-1 tvg-id="YNTV-YNTV1",云南卫视
 http://ivi.bupt.edu.cn/hls/yntv.m3u8
-#EXTINF:-1,江西卫视
+#EXTINF:-1 tvg-id="JXTV-JXTV1",江西卫视
 http://ivi.bupt.edu.cn/hls/jxtv.m3u8
-#EXTINF:-1,福建东南卫视
+#EXTINF:-1 tvg-id="FJTV-FJTV2",福建东南卫视
 http://ivi.bupt.edu.cn/hls/dntv.m3u8
-#EXTINF:-1,贵州卫视
+#EXTINF:-1 tvg-id="GUIZOUTV-GUIZOUTV1",贵州卫视
 http://ivi.bupt.edu.cn/hls/gztv.m3u8
-#EXTINF:-1,宁夏卫视
+#EXTINF:-1 tvg-id="NXTV-NXTV2",宁夏卫视
 http://ivi.bupt.edu.cn/hls/nxtv.m3u8
-#EXTINF:-1,甘肃卫视
+#EXTINF:-1 tvg-id="GSTV-GSTV1",甘肃卫视
 http://ivi.bupt.edu.cn/hls/gstv.m3u8
-#EXTINF:-1,兵团卫视
+#EXTINF:-1 tvg-id="BINGTUAN-BINGTUAN",兵团卫视
 http://ivi.bupt.edu.cn/hls/bttv.m3u8
 
-#EXTINF:-1,凤凰卫视资讯台
+#EXTINF:-1 tvg-id="PHOENIX-PHOENIX-INFONEWS",凤凰卫视资讯台
 http://10.0.0.228:2015/fhzx/live.m3u8
 #EXTINF:-1,凤凰电影
 http://10.0.0.228:2015/fhdy/live.m3u8
-#EXTINF:-1,凤凰卫视中文台
+#EXTINF:-1 tvg-id="PHOENIX-PHOENIX1",凤凰卫视中文台
 http://10.0.0.228:2015/fhzw/live.m3u8
 #EXTINF:-1,星空卫视
 http://10.0.0.228:2015/startv/live.m3u8
 
-#EXTINF:-1,全纪实
+#EXTINF:-1 tvg-id="SITV-SITV-DOCUMENTARY",全纪实
 http://10.0.0.228:2015/documentaryhd/live.m3u8
 #EXTINF:-1,探索频道
 http://10.0.0.228:2015/discovery/live.m3u8
-#EXTINF:-1,国家地理
+#EXTINF:-1 tvg-id="NGS-NGC-HK",国家地理
 http://10.0.0.228:2015/natlgeo/live.m3u8
-#EXTINF:-1,上海纪实
+#EXTINF:-1 tvg-id="SHHAI-SHHAI6",上海纪实
 http://10.0.0.228:2015/docuchina/live.m3u8
-#EXTINF:-1,金鹰纪实
+#EXTINF:-1 tvg-id="HNETV-HNETV3",金鹰纪实
 http://10.0.0.228:2015/gedocu/live.m3u8
 
 #EXTINF:-1,相声轮播
