@@ -1,30 +1,30 @@
 #EXTM3U
 
 #EXTINF:-1,本地-纪录片1
-http://home.railgun.moe:58088/jilu/live1.m3u8
+http://10.0.0.220/jilu/live1.m3u8
 #EXTINF:-1,本地-纪录片2
-http://home.railgun.moe:58088/jilu/live2.m3u8
+http://10.0.0.220/jilu/live2.m3u8
 #EXTINF:-1,本地-纪录片3
-http://home.railgun.moe:58088/jilu/live3.m3u8
+http://10.0.0.220/jilu/live3.m3u8
 #EXTINF:-1,本地-日剧1
-http://home.railgun.moe:58088/riju/live1.m3u8
+http://10.0.0.220/riju/live1.m3u8
 #EXTINF:-1,本地-日剧2
-http://home.railgun.moe:58088/riju/live2.m3u8
+http://10.0.0.220/riju/live2.m3u8
 #EXTINF:-1,本地-日剧3
-http://home.railgun.moe:58088/riju/live3.m3u8
+http://10.0.0.220/riju/live3.m3u8
 #EXTINF:-1,本地-美剧1
-http://home.railgun.moe:58088/meiju/live1.m3u8
+http://10.0.0.220/meiju/live1.m3u8
 #EXTINF:-1,本地-美剧2
-http://home.railgun.moe:58088/meiju/live2.m3u8
+http://10.0.0.220/meiju/live2.m3u8
 #EXTINF:-1,本地-美剧3
-http://home.railgun.moe:58088/meiju/live3.m3u8
+http://10.0.0.220/meiju/live3.m3u8
 
 #EXTINF:-1,本地-中国通史
-http://home.railgun.moe:58088/zhongguotongshi/live1.m3u8
+http://10.0.0.220/zhongguotongshi/live1.m3u8
 #EXTINF:-1,本地-权力的游戏
-http://home.railgun.moe:58088/got/live1.m3u8
+http://10.0.0.220/got/live1.m3u8
 #EXTINF:-1,本地-银魂
-http://home.railgun.moe:58088/yinhun/live1.m3u8
+http://10.0.0.220/yinhun/live1.m3u8
 
 #EXTINF:-1,CCTV-1综合高清
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
