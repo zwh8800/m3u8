@@ -26,6 +26,11 @@ http://10.0.0.220/got/live1.m3u8
 #EXTINF:-1,本地-银魂
 http://10.0.0.220/yinhun/live1.m3u8
 
+#EXTINF:-1,猫和老鼠
+http://aldirect.hls.huya.com/huyalive/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
+#EXTINF:-1,爱情公寓
+http://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1.m3u8
+
 #EXTINF:-1,CCTV-1综合高清
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,CCTV-2财经
@@ -207,10 +212,6 @@ http://aldirect.hls.huya.com/huyalive/29141112-2689670670-11552047564660408320-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1.m3u8
 #EXTINF:-1,周星驰电影
 http://js.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
-#EXTINF:-1,猫和老鼠
-http://aldirect.hls.huya.com/huyalive/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
-#EXTINF:-1,爱情公寓
-http://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1.m3u8
 
 #EXTINF:-1,华数古装
 http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
