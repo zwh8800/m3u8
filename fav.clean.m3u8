@@ -319,6 +319,13 @@ rtmp://dlrtmp.live.cnlive.com:1935/cdn//xinyingshi
 #EXTINF:-1,车视界
 http://dlhls.live.cnlive.com:1935/cdn/cheshijie/playlist.m3u8
 
+#EXTINF:-1,翡翠台
+http://107.148.215.139:888/v/md.php?id=176116
+#EXTINF:-1,无线新闻
+http://107.148.215.139:888/v/inews.php?id=inews
+#EXTINF:-1,TVBJ2
+http://live.idc.idcml.cn/dl/mudu?t=1&id=178347&token=QQ1216154892
+
 #EXTINF:-1,澳視澳門
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 #EXTINF:-1,澳門1
