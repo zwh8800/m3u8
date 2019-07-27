@@ -320,11 +320,9 @@ rtmp://dlrtmp.live.cnlive.com:1935/cdn//xinyingshi
 http://dlhls.live.cnlive.com:1935/cdn/cheshijie/playlist.m3u8
 
 #EXTINF:-1,翡翠台
-http://107.148.215.139:888/v/md.php?id=176116
-#EXTINF:-1,无线新闻
-http://107.148.215.139:888/v/inews.php?id=inews
+http://livesec.mudu.tv/watch/yp7jwb.m3u8?auth_key=1564303200-613703-0-b6aba47358709690a6b321d67f90d21a
 #EXTINF:-1,TVBJ2
-http://live.idc.idcml.cn/dl/mudu?t=1&id=178347&token=QQ1216154892
+http://livesec.mudu.tv/watch/yhcoxp_lsd.m3u8?auth_key=1564303285-635417-0-557e9dd3b93a7eafdd68692bc181fcc8
 
 #EXTINF:-1,澳視澳門
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
@@ -333,7 +331,7 @@ http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1,澳門2
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 #EXTINF:-1,民视新闻HD
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1,TVBS-N
 http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
 #EXTINF:-1,TVBS新聞HD
@@ -359,7 +357,7 @@ http://122.146.68.116:4005/VideoInput/play.ts
 #EXTINF:-1,中天娛樂HD
 http://122.146.68.116:4007/VideoInput/play.ts
 #EXTINF:-1,NHK综合台
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
 
 #EXTINF:-1,澳門衛星
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
