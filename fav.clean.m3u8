@@ -162,10 +162,22 @@ http://ivi.bupt.edu.cn/hls/nxtv.m3u8
 http://ivi.bupt.edu.cn/hls/gstv.m3u8
 #EXTINF:-1,兵团卫视
 http://ivi.bupt.edu.cn/hls/bttv.m3u8
+#EXTINF:-1,河北公共
+http://weblive.hebtv.com/live/hbgg_bq/index.m3u8
+#EXTINF:-1,河北少儿
+http://weblive.hebtv.com/live/hbse_lc/index.m3u8
+#EXTINF:-1,河北影视
+http://weblive.hebtv.com/live/hbys_bq/index.m3u8
+#EXTINF:-1,河北经济
+http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
+#EXTINF:-1,浙江国际
+http://l.cztvcloud.com/channels/lantian/channel10/360p.m3u8
 #EXTINF:-1,万载综合频道
 http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
 #EXTINF:-1,三亚新闻综合
 http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
+#EXTINF:-1,美国中文电视
+http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1,凤凰卫视资讯台
 http://10.0.0.228:2015/fhzx/live.m3u8
