@@ -116,6 +116,12 @@ http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1 tvg-id="CCQTV-CCQTV1",重庆卫视高清
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",厦门TV-1高清
+http://cstvpull.live.wscdns.com/live/xiamen1.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",厦门TV-2高清
+http://cstvpull.live.wscdns.com/live/xiamen2.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",厦门TV-3高清
+http://cstvpull.live.wscdns.com/live/xiamen3.flv
 #EXTINF:-1 tvg-id="HNTV-HNTV1",河南卫视
 http://ivi.bupt.edu.cn/hls/hntv.m3u8
 #EXTINF:-1 tvg-id="SHXITV-SHXITV1",陕西卫视
@@ -156,6 +162,10 @@ http://ivi.bupt.edu.cn/hls/nxtv.m3u8
 http://ivi.bupt.edu.cn/hls/gstv.m3u8
 #EXTINF:-1 tvg-id="BINGTUAN-BINGTUAN",兵团卫视
 http://ivi.bupt.edu.cn/hls/bttv.m3u8
+#EXTINF:-1,万载综合频道
+http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
+#EXTINF:-1,三亚新闻综合
+http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PHOENIX-PHOENIX-INFONEWS",凤凰卫视资讯台
 http://10.0.0.228:2015/fhzx/live.m3u8
