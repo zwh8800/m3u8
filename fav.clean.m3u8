@@ -116,11 +116,11 @@ http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1,重庆卫视高清
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",厦门TV-1高清
+#EXTINF:-1,厦门TV-1高清
 http://cstvpull.live.wscdns.com/live/xiamen1.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",厦门TV-2高清
+#EXTINF:-1,厦门TV-2高清
 http://cstvpull.live.wscdns.com/live/xiamen2.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tt45Gmm.jpg",厦门TV-3高清
+#EXTINF:-1,厦门TV-3高清
 http://cstvpull.live.wscdns.com/live/xiamen3.flv
 #EXTINF:-1,河南卫视
 http://ivi.bupt.edu.cn/hls/hntv.m3u8
