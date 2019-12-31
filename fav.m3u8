@@ -192,11 +192,11 @@ http://10.0.0.228:2015/startv/live.m3u8
 http://10.0.0.228:2015/documentaryhd/live.m3u8
 #EXTINF:-1 tvg-id="Discovery",探索频道
 http://10.0.0.228:2015/discovery/live.m3u8
-#EXTINF:-1 tvg-id="NGS-NGC-HK",国家地理
+#EXTINF:-1 tvg-id="国家地理频道",国家地理
 http://10.0.0.228:2015/natlgeo/live.m3u8
-#EXTINF:-1 tvg-id="SHHAI-SHHAI6",上海纪实
+#EXTINF:-1 tvg-id="上海纪实",上海纪实
 http://10.0.0.228:2015/docuchina/live.m3u8
-#EXTINF:-1 tvg-id="HNETV-HNETV3",金鹰纪实
+#EXTINF:-1 tvg-id="金鹰纪实",金鹰纪实
 http://10.0.0.228:2015/gedocu/live.m3u8
 
 #EXTINF:-1,CBN幸福剧场
