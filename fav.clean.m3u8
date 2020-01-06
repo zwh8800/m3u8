@@ -187,12 +187,6 @@ http://cstvpull.live.wscdns.com/live/xiamen3.flv
 http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
 #EXTINF:-1,三亚新闻综合
 http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
-#EXTINF:-1,美国中文电视
-http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
-#EXTINF:-1,CBN幸福剧场
-http://42.48.60.248:8082/live/gqys-800k.m3u8
-#EXTINF:-1,CBN每日影院
-http://42.48.60.248:8082/live/gqts-800k.m3u8
 #EXTINF:-1,相声轮播
 http://aldirect.hls.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
 #EXTINF:-1,岳云鹏相声
@@ -229,20 +223,10 @@ http://tx.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274
 http://js.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1,易中天品三国
 http://tx.hls.huya.com/huyalive/28466698-2689661800-11552009468300492800-3048991590-10057-A-1525512749-1.m3u8
-#EXTINF:-1,华数古装
-http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
-#EXTINF:-1,华数剧情
-http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
-#EXTINF:-1,华数剧场
-http://hls-ott-zhibo.wasu.tv/live/231/index.m3u8
-#EXTINF:-1,华数偶像HD
-http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
-#EXTINF:-1,华数电视剧HD
-http://hls-ott-zhibo.wasu.tv/live/258/index.m3u8
-#EXTINF:-1,华数爱情FHD
-http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
-#EXTINF:-1,华数古装剧
-http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
+#EXTINF:-1,CBN幸福剧场
+http://42.48.60.248:8082/live/gqys-800k.m3u8
+#EXTINF:-1,CBN每日影院
+http://42.48.60.248:8082/live/gqts-800k.m3u8
 #EXTINF:-1,MOVIES 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1,MOVIES 2
@@ -303,6 +287,20 @@ http://hls-ott-zhibo.wasu.tv/live/292/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/301/index.m3u8
 #EXTINF:-1,国外动作HD
 http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
+#EXTINF:-1,华数古装
+http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
+#EXTINF:-1,华数剧情
+http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
+#EXTINF:-1,华数剧场
+http://hls-ott-zhibo.wasu.tv/live/231/index.m3u8
+#EXTINF:-1,华数偶像HD
+http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
+#EXTINF:-1,华数电视剧HD
+http://hls-ott-zhibo.wasu.tv/live/258/index.m3u8
+#EXTINF:-1,华数爱情FHD
+http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
+#EXTINF:-1,华数古装剧
+http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
 #EXTINF:-1,陈翔六点半
 http://js.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8
 #EXTINF:-1,新华社中文
@@ -483,5 +481,5 @@ http://122.155.180.8:5021/live/440
 http://122.155.180.8:5021/live/457
 #EXTINF:-1,探索频道
 http://122.155.180.8:5021/live/497
-#EXTINF:-1,【美女热舞】香艳美女组合热舞
+#EXTINF:-1,电影
 http://tx.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1.m3u8
