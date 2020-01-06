@@ -53,14 +53,12 @@ http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台",CCTV-NEWS
+#EXTINF:-1 tvg-id="6159" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",CCTV第一剧场
 http://10.0.0.228:2015/dyjctv/live.m3u8
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",CCTV风云剧场
 http://10.0.0.228:2015/fyjctv/live.m3u8
-#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",CCTV老故事
-http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
@@ -113,12 +111,6 @@ http://ivi.bupt.edu.cn/hls/hbhd.m3u8
 http://ivi.bupt.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视高清
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",厦门TV-1高清
-http://cstvpull.live.wscdns.com/live/xiamen1.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",厦门TV-2高清
-http://cstvpull.live.wscdns.com/live/xiamen2.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",厦门TV-3高清
-http://cstvpull.live.wscdns.com/live/xiamen3.flv
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 http://ivi.bupt.edu.cn/hls/hntv.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
@@ -167,14 +159,6 @@ http://weblive.hebtv.com/live/hbse_lc/index.m3u8
 http://weblive.hebtv.com/live/hbys_bq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河北经济
 http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江国际
-http://l.cztvcloud.com/channels/lantian/channel10/360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",万载综合频道
-http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",三亚新闻综合
-http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",美国中文电视
-http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
 http://10.0.0.228:2015/fhzx/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",凤凰电影
@@ -193,6 +177,18 @@ http://10.0.0.228:2015/natlgeo/live.m3u8
 http://10.0.0.228:2015/docuchina/live.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://10.0.0.228:2015/gedocu/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",厦门TV-1高清
+http://cstvpull.live.wscdns.com/live/xiamen1.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",厦门TV-2高清
+http://cstvpull.live.wscdns.com/live/xiamen2.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",厦门TV-3高清
+http://cstvpull.live.wscdns.com/live/xiamen3.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",万载综合频道
+http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",三亚新闻综合
+http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",美国中文电视
+http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CBN幸福剧场
 http://42.48.60.248:8082/live/gqys-800k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CBN每日影院
