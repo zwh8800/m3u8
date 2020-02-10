@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-B站热门
-http://10.0.0.220/bilibili/live1.m3u8
+http://10.0.0.220/bilibili/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-纪录片1
 http://10.0.0.220/jilu/live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-纪录片2
