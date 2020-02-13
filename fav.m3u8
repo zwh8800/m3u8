@@ -6,35 +6,35 @@ http://10.0.0.220/bilibili/live2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-B站热门3
 http://10.0.0.220/bilibili/live3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-纪录片1
-http://10.0.0.220/ios/jilu/live1.m3u8
+http://10.0.0.220/jilu/ios-live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-纪录片2
-http://10.0.0.220/ios/jilu/live2.m3u8
+http://10.0.0.220/jilu/ios-live2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-纪录片3
-http://10.0.0.220/ios/jilu/live3.m3u8
+http://10.0.0.220/jilu/ios-live3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-日剧1
-http://10.0.0.220/ios/riju/live1.m3u8
+http://10.0.0.220/riju/ios-live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-日剧2
-http://10.0.0.220/ios/riju/live2.m3u8
+http://10.0.0.220/riju/ios-live2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-日剧3
-http://10.0.0.220/ios/riju/live3.m3u8
+http://10.0.0.220/riju/ios-live3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-美剧1
-http://10.0.0.220/ios/meiju/live1.m3u8
+http://10.0.0.220/meiju/ios-live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-美剧2
-http://10.0.0.220/ios/meiju/live2.m3u8
+http://10.0.0.220/meiju/ios-live2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-美剧3
-http://10.0.0.220/ios/meiju/live3.m3u8
+http://10.0.0.220/meiju/ios-live3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-国产剧1
-http://10.0.0.220/ios/guochanju/live1.m3u8
+http://10.0.0.220/guochanju/ios-live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-国产剧2
-http://10.0.0.220/ios/guochanju/live2.m3u8
+http://10.0.0.220/guochanju/ios-live2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-国产剧3
-http://10.0.0.220/ios/guochanju/live3.m3u8
+http://10.0.0.220/guochanju/ios-live3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-中国通史
-http://10.0.0.220/ios/zhongguotongshi/live1.m3u8
+http://10.0.0.220/zhongguotongshi/ios-live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-权力的游戏
-http://10.0.0.220/ios/got/live1.m3u8
+http://10.0.0.220/got/ios-live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-银魂
-http://10.0.0.220/ios/yinhun/live1.m3u8
+http://10.0.0.220/yinhun/ios-live1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合高清
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
