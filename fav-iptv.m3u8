@@ -433,69 +433,11 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="港澳台",中文Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CBN幸福剧场
-http://42.48.60.248:8082/live/gqys-800k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CBN每日影院
-http://42.48.60.248:8082/live/gqts-800k.m3u8
-#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/VL-Japan-Logo.jpg" group-title="港澳台",纬来日本台
-http://113.196.177.81:5601/VideoInput/play.ts
-#EXTINF:-1 tvg-id="711" tvg-name="FXHD" tvg-logo="http://singteltv.com.sg/_channels/pic_ch310.jpg" group-title="港澳台",FX-HD
-http://113.196.177.81:5602/VideoInput/play.ts
-#EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="https://www.pngkey.com/png/detail/355-3556529_world-brand-cartoon-network-logo-png-cartoon-network.png" group-title="港澳台",CN卡通频道
-http://113.196.177.81:5604/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="https://archive.vn/lrMo7/a3baa58b3d2389224af9b8614f0f5525a3c79170.png" group-title="港澳台",中天综合台
-http://113.196.177.81:5605/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="https://img.isuper.tv/live-tv/ebc-emovie-live.jpg" group-title="港澳台",东森洋片台
-http://113.196.177.81:5606/VideoInput/play.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225233J2323.png" group-title="未分类",国家地理国际频道
-http://113.196.177.81:5607/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6038" tvg-name="TLC旅游生活频道" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/TLC-Logo.jpg" group-title="港澳台",TLC旅游生活
-http://113.196.177.81:5608/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/04/ETTV-Logo.jpg" group-title="港澳台",东森新闻台
-http://113.196.177.81:5609/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="https://img.isuper.tv/live-tv/ebc-movie-live.jpg" group-title="港澳台",东森电影台
-http://113.196.177.81:5610/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="https://www.tifana.com/works/assets_c/2016/01/fc6f6e79723d5222655af65b432a1dedbf4c7548-thumb-312xauto-3741.jpg" group-title="港澳台",迪士尼卡通
-http://113.196.177.81:5611/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://chinatvinc.com/tv/wp-content/uploads/2015/03/HBO_HD_logo-300x225.jpg" group-title="港澳台",HBO-HD
-http://113.196.177.81:5612/VideoInput/play.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2019/02/13/star-movies.jpg" group-title="未分类",Star Movies
-http://113.196.177.81:5615/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧台" tvg-logo="https://img.isuper.tv/live-tv/ebc-drama-live.jpg" group-title="港澳台",东森戏剧台
-http://113.196.177.81:5627/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="港澳台",TVBS新闻台
-http://113.196.177.81:5616/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="https://img.isuper.tv/live-tv/hollywood-movie-live.jpg" group-title="港澳台",好莱坞电影台
-http://113.196.177.81:5626/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="港澳台",纬来体育台
-http://113.196.177.81:5614/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/CtiTV-Drama-Logo.jpg" group-title="港澳台",中天娱乐台
-http://113.196.177.81:5624/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="港澳台",三立新闻台
-http://113.196.177.81:5629/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="https://data.bloomberglp.com/company/sites/51/2019/08/og-image-generic-lp.png" group-title="港澳台",Bloomberg
-http://113.196.177.81:5619/VideoInput/play.ts
-#EXTINF:-1 tvg-id="508" tvg-name="FoxSports3" tvg-logo="https://img.isuper.tv/live-tv/fox-sports3-live.jpg" group-title="港澳台",FOX体育3
-http://113.196.177.81:5621/VideoInput/play.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/discoveryasia.jpg" group-title="未分类",探索亚洲台
-http://113.196.177.81:5613/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a1/ERA_News_Channel_logo_2006.jpg" group-title="港澳台",年代新闻台
-http://113.196.177.81:5618/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="https://photo.sofun.tw/2017/05/USTV-Logo.jpg" group-title="港澳台",非凡新闻台
-http://113.196.177.81:5617/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://pic.iask.cn/fimg/84034169633.jpg" group-title="港澳台",三立台湾台
-http://113.196.177.81:5620/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="https://3.bp.blogspot.com/-_9niIIOucnE/Wh6RRwiCnVI/AAAAAAAAAaE/DEUEZnI48G06TlRtumi7DDJBlRkEwrybQCLcBGAs/s1600/CH52.png" group-title="港澳台",中天新闻台
-http://113.196.177.81:5628/VideoInput/play.ts
-#EXTINF:-1 tvg-id="6092" tvg-name="FOXSports2" tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/08/FOX-Sports-2.jpg" group-title="港澳台",FOX体育2
-http://113.196.177.81:5625/VideoInput/play.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",贝因体育2台
-http://113.196.177.81:8886/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/mtv-live.jpg" group-title="未分类",MTV音乐台
 http://113.196.177.81:8935/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mpng.pngfly.com/20180808/cb/kisspng-logo-mediacorp-channel-8-television-mediacorp-publ-5b6aa075044182.3242407615337145490174.jpg" group-title="未分类",Mediacorp
 http://113.196.177.81:8933/VideoInput/play.ts
-#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="港澳台",315_SCLZZZZZZZ_.png",NHK-
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="港澳台",NHK
 http://113.196.177.81:8931/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1017302162974523392/l9r0XeZD_400x400.jpg" group-title="未分类",韩国YTN
 http://113.196.177.81:8932/VideoInput/play.ts
@@ -505,70 +447,7 @@ http://113.196.177.81:8939/VideoInput/play.ts
 http://113.196.177.81:8934/VideoInput/play.ts
 #EXTINF:-1 tvg-id="731" tvg-name="TV5Monde" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/51/f2/ef/51f2efe7-fee6-0eb9-4d9e-fb15c9de09a7/AppIcon-0-1x_U007emarketing-0-0-85-220-10.png/1200x630wa.png" group-title="港澳台",TV5MONDE
 http://113.196.177.81:8937/VideoInput/play.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数未知
-http://hls-ott-zhibo.wasu.tv/live/135/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数游戏
-http://hls-ott-zhibo.wasu.tv/live/142/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数动画
-http://hls-ott-zhibo.wasu.tv/live/175/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",看看新闻HD
-http://hls-ott-zhibo.wasu.tv/live/200/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数美食HD
-http://hls-ott-zhibo.wasu.tv/live/256/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",国外电影HD
-http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数科幻HD
-http://hls-ott-zhibo.wasu.tv/live/263/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动作电影HD
-http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",国外电视剧HD
-http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",开心直播HD
-http://hls-ott-zhibo.wasu.tv/live/272/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",VSPN全电竞HD
-http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数纪实HD
-http://hls-ott-zhibo.wasu.tv/live/292/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",有象视频HD
-http://hls-ott-zhibo.wasu.tv/live/301/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",国外动作HD
-http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数古装
-http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数剧情
-http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数剧场
-http://hls-ott-zhibo.wasu.tv/live/231/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数偶像HD
-http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数电视剧HD
-http://hls-ott-zhibo.wasu.tv/live/258/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数爱情FHD
-http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",华数古装剧
-http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陈翔六点半
-http://js.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新华社中文
-http://live.xinhuashixun.com/live/chn01/desc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",@TV新闻
-rtmp://dlrtmp.live.cnlive.com:1935/cdn/news
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",@TVi音乐台
-rtmp://dlrtmp.live.cnlive.com:1935/cdn/inyuetai
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",@TV车视界
-rtmp://dlrtmp.live.cnlive.com:1935/cdn/cheshijie
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",@TVi综艺
-rtmp://dlrtmp.live.cnlive.com:1935/cdn/izongyi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",@TVe娱乐
-rtmp://dlrtmp.live.cnlive.com:1935/cdn/eyule
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",@TV炫韩娱
-rtmp://dlrtmp.live.cnlive.com:1935/cdn//xuanhanyu
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",@TVLiveShow
-rtmp://dlrtmp.live.cnlive.com:1935/cdn//liveshow
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",@TV潮体育
-rtmp://dlrtmp.live.cnlive.com:1935/cdn//chaotiyu
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",@TV新影视
-rtmp://dlrtmp.live.cnlive.com:1935/cdn//xinyingshi
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",车视界
 http://dlhls.live.cnlive.com:1935/cdn/cheshijie/playlist.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
