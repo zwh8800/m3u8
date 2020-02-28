@@ -453,3 +453,5 @@ http://10.0.0.220/rtmp/dyjctv/live.m3u8
 http://10.0.0.220/rtmp/fyjctv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播",电影
 http://tx.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",测试
+http://10.0.0.220/test/live1.m3u8
