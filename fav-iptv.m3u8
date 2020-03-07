@@ -307,6 +307,42 @@ http://cstvpull.live.wscdns.com/live/xiamen3.flv
 http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",三亚新闻综合
 http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑莓电影
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑莓动画
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑莓电竞
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-古装剧场
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-动作电影
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-军旅剧场
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-家庭剧场
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-惊悚悬疑
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-搏击
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-明星大片
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-爱情喜剧
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-精品大剧
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-金牌综艺
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-军事评论
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-农业致富
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-精品记录
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-健康有约
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",NewTV-海外剧场
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",黑帮电影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",电影大片
@@ -367,47 +403,6 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qinggantiaojie_1
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",军事观察
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑莓动画
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑莓电竞
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",古装剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动作电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",军旅剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",家庭剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",惊悚悬疑
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",海外剧场
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",搏击
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",明星大片
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑莓电影
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",爱情喜剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",精品大剧
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",金牌综艺
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",军事评论
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",农业致富
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=00000250
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",军事评论
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",农业致富
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",精品记录
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",健康有约
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/mtv-live.jpg" group-title="未分类",MTV音乐台
 http://113.196.177.81:8935/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mpng.pngfly.com/20180808/cb/kisspng-logo-mediacorp-channel-8-television-mediacorp-publ-5b6aa075044182.3242407615337145490174.jpg" group-title="未分类",Mediacorp
