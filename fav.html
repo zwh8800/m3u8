@@ -347,12 +347,11 @@
 	<script>
 		var timer = null;
 		var lastVideoHeight = 0;
-		var initHeight = $('#center-video').height();
+		var initHeight = $('#v').height();
 
 		function setNavMargintop () {
 			timer = setInterval(function (){
-				var height = $('#center-video').height();
-				console.log(height, 'height')
+				var height = $('#v').height();
 				if (height !== lastVideoHeight) {
 					lastVideoHeight = height;
 					if (height !== initHeight) {
