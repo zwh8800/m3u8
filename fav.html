@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/4.1.3/css/bootstrap.min.css">
 	<title>个人收藏</title>
+</div>
 	<style>
 		#center-video {
 			position: fixed;
@@ -26,8 +27,27 @@
 	<div id="channel-list">
 		<nav class="navbar navbar-light bg-light">
 			<span class="navbar-brand mb-0 h1">个人收藏</span>
+			<div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+				<div class="btn-group" role="group">
+					<button id="btnGroupDrop1" type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					重启
+					</button>
+					<div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="guochanju/live1">国产剧1</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="guochanju/live2">国产剧2</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="guochanju/live3">国产剧3</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="riju/live1">日剧1</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="riju/live2">日剧2</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="riju/live3">日剧3</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="meiju/live1">美剧1</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="meiju/live2">美剧2</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="meiju/live3">美剧3</a>
+					</div>
+				</div>
+				<button type="button" class="btn btn-secondary toggle-play">播放</button>
+			</div>
 		</nav>
-		<ul class="list-group">
+	<ul class="list-group">
 		
 		<a class="channel" href="http://10.0.0.220/bilibili/live1.m3u8"><li class="list-group-item">本地-B站热门1</li></a>
 		
@@ -341,7 +361,7 @@
 		
 		</ul>
 	</div>
-	<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.slim.min.js"></script>
+	<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdn.bootcss.com/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://cdn.bootcss.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 	<script>
@@ -410,6 +430,28 @@
 				$('#v')[0].play();
 			}, 1200);
 		});
+
+		
+		$('.toggle-play').click(function () {
+			var myVideo = $('#v')[0];
+			var toggleBtn = $('.toggle-play');
+			if (!myVideo.paused) {
+				myVideo.pause();
+				toggleBtn.html('播放');
+			} else {
+				myVideo.play();
+				toggleBtn.html('暂停');
+			}
+		})
+
+		
+		$('.restart-item').click(function (e) {
+			var _this = $(this);
+			var targetValue = _this.data('value');
+			$.get('/restart?' + targetValue, function(result) {
+				window.reload();
+			})
+		})
 		
     </script>
   </body>
