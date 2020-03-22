@@ -13,7 +13,7 @@
 			left: 0;
 			z-index: 2;
 			background: #ddd;
-			height: 0;
+			height: calc(100vw/16*9);
 		}
 		#v {
 			height: calc(100vw/16*9);
@@ -362,6 +362,7 @@
 					}
 				}
 				$('#channel-list').css('margin-top',height);
+				#('#center-video').height(height);
 			}, 100)
 		}
 
