@@ -355,6 +355,9 @@
 		function setNavMargintop () {
 			timer = setInterval(function (){
 				var height = $('#v').height();
+				if (height != 0) {
+					#('#center-video').height(height);
+				}
 				if (height !== lastVideoHeight) {
 					lastVideoHeight = height;
 					if (height !== initHeight) {
@@ -362,7 +365,6 @@
 					}
 				}
 				$('#channel-list').css('margin-top',height);
-				#('#center-video').height(height);
 			}, 100)
 		}
 
