@@ -283,6 +283,16 @@ http://weblive.hebtv.com/live/hbse_lc/index.m3u8
 http://weblive.hebtv.com/live/hbys_bq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",河北经济
 http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="地方",纯享4K
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 tvg-id="141" tvg-logo="http://tv.sason.xyz/logo/fhzw.png" group-title="港澳台",凤凰中文 官方FHD
+http://qlive.fengshows.cn/PCC.flv
+#EXTINF:-1 tvg-id="142" tvg-logo="http://tv.sason.xyz/logo/fhzx.png" group-title="港澳台",凤凰资讯 官方FHD
+http://qlive.fengshows.cn/PIN.flv
+#EXTINF:-1 tvg-id="143" tvg-logo="http://tv.sason.xyz/logo/fhxg.png" group-title="港澳台",凤凰香港 官方FHD
+http://qlive.fengshows.cn/PHK.flv
+#EXTINF:-1 tvg-id="6070" tvg-logo="http://tv.sason.xyz/logo/ztxw.png" group-title="港澳台",中天新闻 FHD ★
+http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰卫视资讯台
 http://10.0.0.220/rtmp/fhzx/live.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视中文台
