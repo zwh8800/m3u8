@@ -381,6 +381,10 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qinggantiaojie_1
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",军事观察
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6070" tvg-logo="http://tv.sason.xyz/logo/ztxw.png" group-title="港澳台",中天新闻 FHD ★
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" group-title="港澳台",TVBS新闻 FHD ★
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/mtv-live.jpg" group-title="未分类",MTV音乐台
 http://113.196.177.81:8935/VideoInput/play.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mpng.pngfly.com/20180808/cb/kisspng-logo-mediacorp-channel-8-television-mediacorp-publ-5b6aa075044182.3242407615337145490174.jpg" group-title="未分类",Mediacorp
