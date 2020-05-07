@@ -403,5 +403,7 @@ http://113.196.177.81:8937/VideoInput/play.ts
 http://10.0.0.220/rtmp/dyjctv/live.m3u8
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",CCTV风云剧场
 http://10.0.0.220/rtmp/fyjctv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播",日本购物频道
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",测试
 http://10.0.0.220/test/live1.m3u8
