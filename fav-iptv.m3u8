@@ -321,9 +321,10 @@ http://cstvpull.live.wscdns.com/live/xiamen3.flv
 http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",三亚新闻综合
 http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播",电影推荐
 http://al.rtmp.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播",猫和老鼠
+http://al.rtmp.huya.com/src/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播",爱情公寓
 http://al.rtmp.huya.com/src/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播",琅琊榜
@@ -376,9 +377,6 @@ http://al.rtmp.huya.com/huyalive/1199512574006-1199512574006-5225679931584806912
 http://al.rtmp.huya.com/src/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播",少年包青天
 http://al.rtmp.huya.com/src/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",黑帮电影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",电影大片
