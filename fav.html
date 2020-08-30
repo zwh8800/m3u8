@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/4.1.3/css/bootstrap.min.css">
+	<title>个人收藏</title>
+</div>
+	<style>
+		#center-video {
+			position: fixed;
+			top: 0;
+			right: 0;
+			left: 0;
+			z-index: 2;
+			background: #ddd;
+			height: calc(100vw/16*9);
+		}
+	</style>
+  </head>
+  <body>
+	<center id="center-video">
+    <video style="object-fit: cover;" autoplay x5-playsinline="" playsinline="" webkit-playsinline="" id="v" width="100%" type="application/vnd.apple.mpegurl" controls>
+        <source id="video-source" src="http://10.0.0.220/bilibili/live1.m3u8">
+	</video>
+	</center>
+	<div id="channel-list">
+		<nav class="navbar navbar-light bg-light">
+			<span class="navbar-brand mb-0 h1">个人收藏</span>
+			<div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+				<div class="btn-group" role="group">
+					<button id="btnGroupDrop1" type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					重启
+					</button>
+					<div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="guochanju/live1">国产剧1</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="guochanju/live2">国产剧2</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="guochanju/live3">国产剧3</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="riju/live1">日剧1</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="riju/live2">日剧2</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="riju/live3">日剧3</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="meiju/live1">美剧1</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="meiju/live2">美剧2</a>
+						<a class="dropdown-item restart-item" href="javascript:;" data-value="meiju/live3">美剧3</a>
+					</div>
+				</div>
+				<button type="button" class="btn btn-secondary toggle-play">播放</button>
+			</div>
+		</nav>
+	<ul class="list-group">
+		
+		<a class="channel" href="http://10.0.0.220/bilibili/live1.m3u8"><li class="list-group-item">本地-B站热门1</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/bilibili/live2.m3u8"><li class="list-group-item">本地-B站热门2</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/bilibili/live3.m3u8"><li class="list-group-item">本地-B站热门3</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/jilu/ios-live1.m3u8"><li class="list-group-item">本地-纪录片1</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/riju/ios-live1.m3u8"><li class="list-group-item">本地-日剧1</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/riju/ios-live2.m3u8"><li class="list-group-item">本地-日剧2</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/riju/ios-live3.m3u8"><li class="list-group-item">本地-日剧3</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/meiju/ios-live1.m3u8"><li class="list-group-item">本地-美剧1</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/meiju/ios-live2.m3u8"><li class="list-group-item">本地-美剧2</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/meiju/ios-live3.m3u8"><li class="list-group-item">本地-美剧3</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/guochanju/ios-live1.m3u8"><li class="list-group-item">本地-国产剧1</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/guochanju/ios-live2.m3u8"><li class="list-group-item">本地-国产剧2</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/guochanju/ios-live3.m3u8"><li class="list-group-item">本地-国产剧3</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/zhongguotongshi/ios-live1.m3u8"><li class="list-group-item">本地-中国通史</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/yinhun/ios-live1.m3u8"><li class="list-group-item">本地-银魂</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"><li class="list-group-item">CCTV-1综合高清</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv2.m3u8"><li class="list-group-item">CCTV-2财经</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"><li class="list-group-item">CCTV-3综艺高清</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv4.m3u8"><li class="list-group-item">CCTV-4中文国际</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8"><li class="list-group-item">CCTV-5&#43;体育赛事高清</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"><li class="list-group-item">CCTV-6电影高清</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv7.m3u8"><li class="list-group-item">CCTV-7军事农业</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8"><li class="list-group-item">CCTV-8电视剧高清</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv9.m3u8"><li class="list-group-item">CCTV-9纪录</li></a>
+		
+		<a class="channel" href="http://hls-ott-zhibo.wasu.tv/live/128/index.m3u8"><li class="list-group-item">CCTV10科教</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv11.m3u8"><li class="list-group-item">CCTV-11戏曲</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv12.m3u8"><li class="list-group-item">CCTV-12社会与法</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv13.m3u8"><li class="list-group-item">CCTV-13新闻</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv14.m3u8"><li class="list-group-item">CCTV-14少儿</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv15.m3u8"><li class="list-group-item">CCTV-15音乐</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/cctv16.m3u8"><li class="list-group-item">CGTN</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/rtmp/dyjctv/live.m3u8"><li class="list-group-item">CCTV第一剧场</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/rtmp/fyjctv/live.m3u8"><li class="list-group-item">CCTV风云剧场</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/chchd.m3u8"><li class="list-group-item">CHC高清电影</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/rtmp/chctv/live.m3u8"><li class="list-group-item">CHC家庭影院</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/rtmp/chcatv/live.m3u8"><li class="list-group-item">CHC动作电影</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/btv1hd.m3u8"><li class="list-group-item">北京卫视高清</li></a>
+		
+		<a class="channel" href="http://10.0.0.220/rtmp/btv4hd/live.m3u8"><li class="list-group-item">北京影视高清</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/btv2hd.m3u8"><li class="list-group-item">北京文艺高清</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/btv11hd.m3u8"><li class="list-group-item">北京纪实高清</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/btv3.m3u8"><li class="list-group-item">北京科教</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/btv5.m3u8"><li class="list-group-item">北京财经</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/btv7.m3u8"><li class="list-group-item">北京生活</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/btv8.m3u8"><li class="list-group-item">北京青年</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/btv9.m3u8"><li class="list-group-item">北京新闻</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/btv10.m3u8"><li class="list-group-item">北京卡酷少儿</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/hunanhd.m3u8"><li class="list-group-item">湖南卫视高清</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/zjhd.m3u8"><li class="list-group-item">浙江卫视高清</li></a>
+		
+		<a class="channel" href="http://ivi.bupt.edu.cn/hls/jshd.m3u8"><li class="list-group-item">江苏卫视高清</li></a>
+		
+		</ul>
+	</div>
+	<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdn.bootcss.com/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://cdn.bootcss.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+	<script>
+		var w = $('#v').width()
+
+		var timer = null;
+		var lastVideoHeight = 0;
+		var initHeight = w / 16 * 9;
+
+		function setNavMargintop () {
+			timer = setInterval(function (){
+				var height = $('#v').height();
+				if (height != 0) {
+					$('#center-video').height(height);
+				}
+				if (height !== lastVideoHeight) {
+					$('#channel-list').css('margin-top',height);
+					lastVideoHeight = height;
+				}
+			}, 100)
+		}
+
+		setNavMargintop();
+
+		setTimeout(function() {
+			$('#v')[0].play();
+		}, 1000);
+
+        $('.channel').click(function(e) {
+			
+            e.preventDefault();
+            var _this = $(this);
+            var href = _this.attr('href');
+            $('#video-source').attr('src', href);
+			$('#v').attr('src', href);
+			$('#v')[0].play();
+			setNavMargintop();
+		})
+		$('#v').on('webkitendfullscreen', function() {
+			setTimeout(function() {
+				$('#v')[0].play();
+			}, 300);
+			setTimeout(function() {
+				$('#v')[0].play();
+			}, 600);
+			setTimeout(function() {
+				$('#v')[0].play();
+			}, 900);
+			setTimeout(function() {
+				$('#v')[0].play();
+			}, 1200);
+		});
+		
+		
+		$('#v').on('x5videoexitfullscreen', function() {
+			setTimeout(function() {
+				$('#v')[0].play();
+			}, 300);
+			setTimeout(function() {
+				$('#v')[0].play();
+			}, 600);
+			setTimeout(function() {
+				$('#v')[0].play();
+			}, 900);
+			setTimeout(function() {
+				$('#v')[0].play();
+			}, 1200);
+		});
+
+		
+		$('.toggle-play').click(function () {
+			var myVideo = $('#v')[0];
+			var toggleBtn = $('.toggle-play');
+			if (!myVideo.paused) {
+				myVideo.pause();
+				toggleBtn.html('播放');
+			} else {
+				myVideo.play();
+				toggleBtn.html('暂停');
+			}
+		})
+
+		
+		$('.restart-item').click(function (e) {
+			var _this = $(this);
+			var targetValue = _this.data('value');
+			$.get('/restart?' + targetValue, function(result) {
+				window.reload();
+			})
+		})
+		
+    </script>
+  </body>
+</html>
+
