@@ -6,29 +6,29 @@ http://10.0.0.220/bilibili/live2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-B站热门3
 http://10.0.0.220/bilibili/live3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-纪录片1
-http://10.0.0.220:8090/jilu1.ts
+rtsp://10.0.0.220:8554/jilu1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-日剧1
-http://10.0.0.220:8090/riju1.ts
+rtsp://10.0.0.220:8554/riju1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-日剧2
-http://10.0.0.220:8090/riju2.ts
+rtsp://10.0.0.220:8554/riju2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-日剧3
-http://10.0.0.220:8090/riju3.ts
+rtsp://10.0.0.220:8554/riju3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-美剧1
-http://10.0.0.220:8090/meiju1.ts
+rtsp://10.0.0.220:8554/meiju1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-美剧2
-http://10.0.0.220:8090/meiju2.ts
+rtsp://10.0.0.220:8554/meiju2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-美剧3
-http://10.0.0.220:8090/meiju3.ts
+rtsp://10.0.0.220:8554/meiju3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-国产剧1
-http://10.0.0.220:8090/guochanju1.ts
+rtsp://10.0.0.220:8554/guochanju1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-国产剧2
-http://10.0.0.220:8090/guochanju2.ts
+rtsp://10.0.0.220:8554/guochanju2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-国产剧3
-http://10.0.0.220:8090/guochanju3.ts
+rtsp://10.0.0.220:8554/guochanju3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-中国通史
-http://10.0.0.220:8090/zhongguotongshi1.ts
+rtsp://10.0.0.220:8554/zhongguotongshi1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",本地-银魂
-http://10.0.0.220:8090/yinhun1.ts
+rtsp://10.0.0.220:8554/yinhun1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘剧场
 rtp://239.3.1.95:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",淘娱乐
