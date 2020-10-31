@@ -43,8 +43,6 @@ rtp://239.3.1.102:8001
 rtp://239.3.1.249:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱上4K
 rtp://239.3.1.236:2000
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="地方",纯享4K
-http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合高清
 rtp://239.3.1.129:8008
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经高清
