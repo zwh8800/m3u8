@@ -191,8 +191,6 @@ rtp://239.3.1.51:9252
 rtp://239.3.1.147:9268
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东教育卫视
 rtp://239.3.1.52:4120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",粤TV
-rtp://239.3.1.162:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",朝阳融媒
 rtp://239.3.1.163:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星影
