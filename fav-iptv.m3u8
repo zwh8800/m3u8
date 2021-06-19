@@ -307,15 +307,7 @@ http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
 rtp://239.3.1.212:8060
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 rtp://239.3.1.58:8156
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门TV-1高清
-http://cstvpull.live.wscdns.com/live/xiamen1.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门TV-2高清
-http://cstvpull.live.wscdns.com/live/xiamen2.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门TV-3高清
-http://cstvpull.live.wscdns.com/live/xiamen3.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",万载综合频道
-http://jxwz.chinashadt.com:2036/live/tv1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",三亚新闻综合
-http://hnsy.chinashadt.com:1935/live/syzb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="168" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",上海五星体育
+http://183.207.255.190/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",测试
 http://10.0.0.220/test/live1.m3u8
