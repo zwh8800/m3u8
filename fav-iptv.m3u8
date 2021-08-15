@@ -314,10 +314,10 @@ http://183.207.255.190/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",测试
 http://10.0.0.220/test/live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",996
-http://10.0.0.220/radio2/996.m3u8
+http://10.0.0.220:2016/?u=http://10.0.0.220/radio2/996.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",887
-http://10.0.0.220/radio/887.m3u8
+http://10.0.0.220:2016/?u=http://10.0.0.220/radio/887.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",网易云韩小寒
-http://10.0.0.220/163-2/163-2.m3u8
+http://10.0.0.220:2016/?u=http://10.0.0.220/163-2/163-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",网易云一只废喵
-http://10.0.0.220/163-2/163-1.m3u8
+http://10.0.0.220:2016/?u=http://10.0.0.220/163-2/163-1.m3u8
