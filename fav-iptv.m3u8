@@ -9,8 +9,6 @@ http://10.0.0.220:2016/?u=http://10.0.0.220/bilibili/live3.m3u8
 http://10.0.0.220:2016/?u=http://10.0.0.220/bilibili2/live4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/B站热门-5.png" group-title="未分类",本地-B站热门5
 http://10.0.0.220:2016/?u=http://10.0.0.220/bilibili2/live5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/B站热门-6.png" group-title="未分类",本地-B站热门6
-http://10.0.0.220:2016/?u=http://10.0.0.220/bilibili3/live6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/纪录片-1.png" group-title="未分类",本地-纪录片1
 http://10.0.0.220:2016/?u=http://10.0.0.220/jilu/live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/日剧-1.png" group-title="未分类",本地-日剧1
