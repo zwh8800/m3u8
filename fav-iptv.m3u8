@@ -91,20 +91,6 @@ rtp://239.3.1.153:8136
 rtp://239.3.1.215:4220
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村高清
 rtp://239.3.1.151:8144
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4欧洲高清
-rtp://239.3.1.213:4220
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4美洲高清
-rtp://239.3.1.214:4220
-#EXTINF:-1 tvg-id="0" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN纪录频道高清
-rtp://239.3.1.216:4220
-#EXTINF:-1 tvg-id="0" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN西班牙语高清
-rtp://239.3.1.217:4220
-#EXTINF:-1 tvg-id="0" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语高清
-rtp://239.3.1.218:4220
-#EXTINF:-1 tvg-id="0" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN阿拉伯语高清
-rtp://239.3.1.219:4220
-#EXTINF:-1 tvg-id="0" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN俄语高清
-rtp://239.3.1.220:4220
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视高清
 rtp://239.3.1.241:8000
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="北京",北京新闻高清
@@ -227,16 +213,20 @@ rtp://239.3.1.56:4120
 rtp://239.3.1.96:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/密云电视台.png" group-title="未分类",密云电视台高清
 rtp://239.3.1.154:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/聚鲨环球精选.png" group-title="未分类",聚鲨环球精选高清
-rtp://239.3.1.179:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/聚鲨北京.png" group-title="未分类",聚鲨北京高清
-rtp://239.3.1.180:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/聚鲨健康.png" group-title="未分类",聚鲨健康高清
-rtp://239.3.1.181:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/聚鲨生活.png" group-title="未分类",聚鲨生活高清
-rtp://239.3.1.182:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/聚鲨国际.png" group-title="未分类",聚鲨国际高清
-rtp://239.3.1.183:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4欧洲高清
+rtp://239.3.1.213:4220
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4美洲高清
+rtp://239.3.1.214:4220
+#EXTINF:-1 tvg-id="0" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN纪录频道高清
+rtp://239.3.1.216:4220
+#EXTINF:-1 tvg-id="0" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN西班牙语高清
+rtp://239.3.1.217:4220
+#EXTINF:-1 tvg-id="0" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语高清
+rtp://239.3.1.218:4220
+#EXTINF:-1 tvg-id="0" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN阿拉伯语高清
+rtp://239.3.1.219:4220
+#EXTINF:-1 tvg-id="0" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN俄语高清
+rtp://239.3.1.220:4220
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/IPTV收视指南.png" group-title="未分类",IPTV收视指南
 rtp://239.3.1.193:8012
 #EXTINF:-1 tvg-id="101" tvg-name="IPTV经典电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png" group-title="地方",IPTV经典电影
@@ -317,6 +307,16 @@ rtp://239.3.1.212:8060
 rtp://239.3.1.58:8156
 #EXTINF:-1 tvg-id="168" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",上海五星体育
 http://183.207.255.190/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/聚鲨环球精选.png" group-title="未分类",聚鲨环球精选高清
+rtp://239.3.1.179:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/聚鲨北京.png" group-title="未分类",聚鲨北京高清
+rtp://239.3.1.180:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/聚鲨健康.png" group-title="未分类",聚鲨健康高清
+rtp://239.3.1.181:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/聚鲨生活.png" group-title="未分类",聚鲨生活高清
+rtp://239.3.1.182:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/聚鲨国际.png" group-title="未分类",聚鲨国际高清
+rtp://239.3.1.183:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",测试
 http://10.0.0.220/test/live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/B站热门-7.png" group-title="未分类",甲骨文-B站热门1
