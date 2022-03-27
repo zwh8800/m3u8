@@ -304,7 +304,7 @@ rtp://239.3.1.212:8060
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 rtp://239.3.1.58:8156
 #EXTINF:-1 tvg-id="168" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",上海五星体育
-http://183.207.255.190/live/program/live/ssty/4000000/mnf.m3u8
+http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/聚鲨环球精选.png" group-title="未分类",聚鲨环球精选高清
 rtp://239.3.1.179:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/聚鲨北京.png" group-title="未分类",聚鲨北京高清
