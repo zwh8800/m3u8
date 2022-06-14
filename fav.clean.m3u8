@@ -9,8 +9,12 @@ http://10.0.0.220/bilibili/live3.m3u8
 http://10.0.0.220/bilibili2/live4.m3u8
 #EXTINF:-1,本地-B站热门5
 http://10.0.0.220/bilibili2/live5.m3u8
+#EXTINF:-1,本地-B站热门6
+http://10.0.0.220/bilibili2/live6.m3u8
 #EXTINF:-1,本地-纪录片1
 http://10.0.0.220/jilu/ios-live1.m3u8
+#EXTINF:-1,本地-教育1
+http://10.0.0.220/study/live1.m3u8
 #EXTINF:-1,本地-日剧1
 http://10.0.0.220/riju/ios-live1.m3u8
 #EXTINF:-1,本地-日剧2
@@ -31,6 +35,8 @@ http://10.0.0.220/guochanju/ios-live2.m3u8
 http://10.0.0.220/guochanju/ios-live3.m3u8
 #EXTINF:-1,本地-中国通史
 http://10.0.0.220/zhongguotongshi/ios-live1.m3u8
+#EXTINF:-1,本地-猫和老鼠
+http://10.0.0.220/tomandjerry/live1.m3u8
 #EXTINF:-1,本地-银魂
 http://10.0.0.220/yinhun/ios-live1.m3u8
 #EXTINF:-1,CCTV-1综合高清
