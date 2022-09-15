@@ -193,16 +193,12 @@ rtp://239.3.1.155:4120
 rtp://239.3.1.51:9252
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
 rtp://239.3.1.147:9268
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/体育赛事.png" group-title="未分类",体育赛事高清
-rtp://239.3.1.157:8176
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/山东教育.png" group-title="未分类",山东教育卫视
 rtp://239.3.1.52:4120
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/朝阳融媒.png" group-title="未分类",朝阳融媒
 rtp://239.3.1.163:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/星影.png" group-title="未分类",星影
 rtp://239.3.1.94:4120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/熊猫频道.png" group-title="未分类",熊猫频道
-rtp://239.3.1.66:8068
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/CETV1.png" group-title="未分类",CETV1高清
 rtp://239.3.1.57:8152
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/CETV2.png" group-title="未分类",CETV2
