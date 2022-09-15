@@ -97,8 +97,6 @@ rtp://239.3.1.65:8132
 rtp://239.3.1.153:8136
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN高清
 rtp://239.3.1.215:4220
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="http://10.0.0.220:8004/live/logo/cctv16.jpg" group-title="央视",CCTV-16奥林匹克4K
-rtp://239.3.1.183:8001
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村高清
 rtp://239.3.1.151:8144
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视高清
