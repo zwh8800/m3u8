@@ -95,12 +95,12 @@ rtp://239.3.1.65:8132
 rtp://239.3.1.153:8136
 #EXTINF:-1,CCTV-16奥林匹克4K
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-#EXTINF:-1,CGTN高清
-rtp://239.3.1.215:4220
 #EXTINF:-1,CCTV-17农业农村高清
 rtp://239.3.1.151:8144
 #EXTINF:-1,CCTV-4K
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1,CGTN高清
+rtp://239.3.1.215:4220
 #EXTINF:-1,北京卫视高清
 rtp://239.3.1.241:8000
 #EXTINF:-1,北京新闻高清

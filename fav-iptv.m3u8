@@ -95,12 +95,12 @@ rtp://239.3.1.65:8132
 rtp://239.3.1.153:8136
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克4K
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN高清
-rtp://239.3.1.215:4220
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村高清
 rtp://239.3.1.151:8144
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV-4K
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN高清
+rtp://239.3.1.215:4220
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视高清
 rtp://239.3.1.241:8000
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="北京",北京新闻高清
