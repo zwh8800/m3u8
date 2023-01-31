@@ -53,6 +53,8 @@ rtp://239.3.1.250:8001
 rtp://239.3.1.178:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/萌宠TV.png" group-title="未分类",萌宠TV
 rtp://239.3.1.102:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="4K频道",4K影视
+http://159.75.85.63:5828/4kys.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/4K超清.png" group-title="未分类",4K超清
 rtp://239.3.1.249:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/爱上4K.png" group-title="未分类",爱上4K
