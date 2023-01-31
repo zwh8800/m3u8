@@ -55,6 +55,10 @@ rtp://239.3.1.178:8001
 rtp://239.3.1.102:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="4K频道",4K影视
 http://159.75.85.63:5828/4kys.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/592C8D88-DA83-41ED-8824-E2E2E54E396C.png" group-title="4K频道",欢笑剧场4KHLG小果源
+http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+#EXTINF:-1 tvg-id="" tvg-name="4K超高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/4kcgq.png" group-title="4K频道",4K超高清电影
+http://159.75.85.63:5681/sxg.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/4K超清.png" group-title="未分类",4K超清
 rtp://239.3.1.249:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/爱上4K.png" group-title="未分类",爱上4K
@@ -89,6 +93,8 @@ rtp://239.3.1.124:8128
 rtp://239.3.1.65:8132
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐高清
 rtp://239.3.1.153:8136
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克4K
+http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN高清
 rtp://239.3.1.215:4220
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村高清
