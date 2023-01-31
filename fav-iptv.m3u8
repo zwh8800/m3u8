@@ -67,11 +67,11 @@ https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
 https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="其他",热门综艺
 https://live.v1.mk/api/bestv.php?id=rmzy8m/8000000
-#EXTINF:-1 tvg-id="" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚 8M
+#EXTINF:-1 tvg-id="" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚
 https://live.v1.mk/api/bestv.php?id=shss8m/8000000
-#EXTINF:-1 tvg-id="" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉 8M
+#EXTINF:-1 tvg-id="" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉
 https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="其他",看天下精选 8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="其他",看天下精选
 https://live.v1.mk/api/bestv.php?id=ktxjx8m/8000000
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
 http://baidu.live.cqccn.com/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
