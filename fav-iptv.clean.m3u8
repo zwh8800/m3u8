@@ -161,8 +161,10 @@ rtp://239.3.1.123:8164
 rtp://239.3.1.240:8172
 #EXTINF:-1,民视新闻
 https://ghproxy.com/https://raw.githubusercontent.com/StanleyChen0924/stanleychen0924.github.io/YTlive/民視新聞.m3u8
-#EXTINF:-1,民视新闻
+#EXTINF:-1,三立+
 https://ghproxy.com/https://raw.githubusercontent.com/StanleyChen0924/stanleychen0924.github.io/YTlive/%E4%B8%89%E7%AB%8B%2B.m3u8
+#EXTINF:-1,中天新聞
+https://ghproxy.com/https://github.com/StanleyChen0924/stanleychen0924.github.io/raw/YTlive/中天新聞.m3u8
 #EXTINF:-1,河南卫视
 rtp://239.3.1.27:8128
 #EXTINF:-1,陕西卫视
@@ -341,6 +343,10 @@ http://10.0.0.220:2016/?u=http://10.0.0.220/o1/bilibili/live1.m3u8
 http://10.0.0.220:2016/?u=http://10.0.0.220/163-2/163-2.m3u8
 #EXTINF:-1,网易云|一只废喵
 http://10.0.0.220:2016/?u=http://10.0.0.220/163-2/163-1.m3u8
+#EXTINF:-1,KKBOX21
+https://github.com/StanleyChen0924/stanleychen0924.github.io/raw/YTlive/KKBOX21.m3u8
+#EXTINF:-1,FM107
+https://ghproxy.com/https://github.com/StanleyChen0924/stanleychen0924.github.io/raw/YTlive/FM107.m3u8
 #EXTINF:-1,KPOP
 https://ghproxy.com/https://raw.githubusercontent.com/StanleyChen0924/stanleychen0924.github.io/YTlive/KPOP.m3u8
 #EXTINF:-1,996
