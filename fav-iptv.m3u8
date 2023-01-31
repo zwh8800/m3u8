@@ -53,6 +53,8 @@ rtp://239.3.1.250:8001
 rtp://239.3.1.178:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/萌宠TV.png" group-title="未分类",萌宠TV
 rtp://239.3.1.102:8001
+#EXTINF:-1 tvg-name="4K影视" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="4K频道",4K影视
+http://159.75.85.63:5828/4kys.php
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/4K超清.png" group-title="未分类",4K超清
 rtp://239.3.1.249:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/爱上4K.png" group-title="未分类",爱上4K
@@ -91,6 +93,8 @@ rtp://239.3.1.153:8136
 rtp://239.3.1.215:4220
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村高清
 rtp://239.3.1.151:8144
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV-4K
+http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视高清
 rtp://239.3.1.241:8000
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="北京",北京新闻高清
