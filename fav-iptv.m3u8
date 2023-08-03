@@ -51,7 +51,7 @@ http://10.0.0.220:2016/?u=http://10.0.0.220/tomandjerry/live1.m3u8
 http://10.0.0.220:2016/?u=http://10.0.0.220/yinhun/live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/纪录片-1.png" group-title="未分类",纪录片
 http://10.0.0.220:2016/?u=http://10.0.0.220/jilu/live1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/教育.png" group-title="未分类",教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/教育.png" group-title="未分类",学习
 http://10.0.0.220:2016/?u=http://10.0.0.220/study/live1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/健身.png" group-title="未分类",健身
 http://10.0.0.220:2016/?u=http://10.0.0.220/fitness/live1.m3u8
