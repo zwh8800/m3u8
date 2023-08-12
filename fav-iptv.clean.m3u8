@@ -43,6 +43,8 @@ http://10.0.0.220:2016/?u=http://10.0.0.220/hlserver2/live.m3u8
 http://10.0.0.220:2016/?u=http://10.0.0.220/hlserver3/live.m3u8
 #EXTINF:-1,阿里云电影1
 http://10.0.0.220:2016/?u=http://10.0.0.220/hlserver-movie-1/live.m3u8
+#EXTINF:-1,阿里云电影2
+http://10.0.0.220:2016/?u=http://10.0.0.220/hlserver-movie-2/live.m3u8
 #EXTINF:-1,中国通史
 http://10.0.0.220:2016/?u=http://10.0.0.220/zhongguotongshi/live1.m3u8
 #EXTINF:-1,猫和老鼠
