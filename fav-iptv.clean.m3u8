@@ -43,8 +43,6 @@ http://10.0.0.220:2016/?u=http://10.0.0.220/tomandjerry/live1.m3u8
 http://10.0.0.220:2016/?u=http://10.0.0.220/yinhun/live1.m3u8
 #EXTINF:-1,纪录片
 http://10.0.0.220:2016/?u=http://10.0.0.220/jilu/live1.m3u8
-#EXTINF:-1,学习
-http://10.0.0.220:2016/?u=http://10.0.0.220/study/live1.m3u8
 #EXTINF:-1,淘剧场
 rtp://239.3.1.95:8001
 #EXTINF:-1,淘娱乐
