@@ -326,4 +326,46 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qinggantiaojie_1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",历史秘闻
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",军事观察
-http://101.72.196.41/r/baiducdnct.inter.
+http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="6070" tvg-logo="http://tv.sason.xyz/logo/ztxw.png" group-title="港澳台",中天新闻 FHD ★
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" group-title="港澳台",TVBS新闻 FHD ★
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/mtv-live.jpg" group-title="未分类",MTV音乐台
+http://113.196.177.81:8935/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mpng.pngfly.com/20180808/cb/kisspng-logo-mediacorp-channel-8-television-mediacorp-publ-5b6aa075044182.3242407615337145490174.jpg" group-title="未分类",Mediacorp
+http://113.196.177.81:8933/VideoInput/play.ts
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="港澳台",NHK
+http://113.196.177.81:8931/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1017302162974523392/l9r0XeZD_400x400.jpg" group-title="未分类",韩国YTN
+http://113.196.177.81:8932/VideoInput/play.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/NHK_BS1_logo.svg/1280px-NHK_BS1_logo.svg.png" group-title="未分类",NHK-BS1
+http://113.196.177.81:8939/VideoInput/play.ts
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/dw-english/pos/dw-english_300.png" group-title="港澳台",DW
+http://113.196.177.81:8934/VideoInput/play.ts
+#EXTINF:-1 tvg-id="731" tvg-name="TV5Monde" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/51/f2/ef/51f2efe7-fee6-0eb9-4d9e-fb15c9de09a7/AppIcon-0-1x_U007emarketing-0-0-85-220-10.png/1200x630wa.png" group-title="港澳台",TV5MONDE
+http://113.196.177.81:8937/VideoInput/play.ts
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",CCTV第一剧场
+http://10.0.0.220/rtmp/dyjctv/live.m3u8
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",CCTV风云剧场
+http://10.0.0.220/rtmp/fyjctv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播",日本购物频道
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播",电影
+http://tx.hls.huya.com/huyalive/30765679-2533159102-10879835498654728192-3049003136-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id="168" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",上海五星体育
+http://183.207.255.190/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",测试
+http://10.0.0.220/test/live1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/B站热门-7.png" group-title="未分类",甲骨文-B站热门1
+http://10.0.0.220:2016/?u=http://10.0.0.220/o2/bilibili/live1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/B站热门-8.png" group-title="未分类",甲骨文-B站热门2
+http://10.0.0.220:2016/?u=http://10.0.0.220/o1/bilibili/live1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",996
+http://10.0.0.220/radio2/996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",887
+http://10.0.0.220/radio/887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",网易云韩小寒
+http://10.0.0.220/163-2/163-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",网易云一只废喵
+http://10.0.0.220/163-2/163-1.m3u8
