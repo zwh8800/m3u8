@@ -291,9 +291,7 @@ http://10.0.0.1:4022/udp/239.3.1.85:4120
 http://10.0.0.1:4022/udp/239.3.1.125:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/睛彩篮球.png" group-title="兴趣",睛彩篮球高清
 http://10.0.0.1:4022/udp/239.3.1.126:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/什么电视剧高清.png" group-title="兴趣",睛彩青少高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="兴趣",睛彩青少高清
 http://10.0.0.1:4022/udp/239.3.1.127:8001
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/什么电视剧高清.png" group-title="兴趣",睛彩广场舞高清
-http://10.0.0.1:4022/udp/239.3.1.128:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://10.0.0.220:8004/live/logo/大健康.png" group-title="兴趣",大健康
 http://10.0.0.1:4022/udp/239.3.1.251:8001
